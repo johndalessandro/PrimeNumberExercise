@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"primenumgen","c":"ConcretePrimeNumberGenerator","l":"ConcretePrimeNumberGenerator()","url":"%3Cinit%3E()"},{"p":"primenumgen","c":"ConcretePrimeNumberGenerator","l":"generate(int, int)","url":"generate(int,int)"},{"p":"primenumgen","c":"ConcretePrimeNumberGenerator","l":"isPrime(int)"}]
